@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-💼- I’m currently working at: <!-- [![Calpen](https://www.calpen.com.br/wp-content/uploads/2021/06/LOGO-CALPEN.svg) --> [Calpen](https://www.calpen.com.br/)<br/>
+💼- I’m currently working at: <!-- [![Calpen](https://www.calpen.com.br/wp-content/uploads/2021/06/LOGO-CALPEN.svg) --> [Edusense](https://www.edusense.com.br)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
