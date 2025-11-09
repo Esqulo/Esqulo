@@ -21,7 +21,7 @@
 ### 🧠 About Me
 - 💼 Currently working at [Edusense](https://www.edusense.com.br)  
 - 🧩 Focused on fullstack development using **Laravel**, **Node.js**, **React**, and **SQL**  
-- 🧑‍💻 I love building products that are fast, reliable, and beautiful  
+- 🧑‍💻 I love building products that are fast, reliable and beautiful  
 - 🚀 Exploring **clean architecture**, **API design**, and **system performance**
 
 ---
