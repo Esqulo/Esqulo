@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Juan Elias Cunha</h1>
+<h1 align="center">👋 Hey, I'm Juan Elias da Cunha</h1>
 
 <p align="center">
   <b>Fullstack Developer</b> passionate about clean code, scalable systems, and modern web technologies.  
