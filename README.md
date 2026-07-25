@@ -26,7 +26,7 @@ I believe the best products are the ones that become part of people's daily rout
 
 Currently, I work on products used by thousands of users every day, always looking for ways to improve code quality, system performance, and the long-term maintainability of the software.
 
-* 💼 Fullstack Developer at **Edusense**
+* 💼 Fullstack Developer at [Edusense](https://www.edusense.com.br)  
 * 📚 Constantly learning and improving my craft
 * 🛠️ Building software that people use every day
 * 🚀 Passionate about clean architecture, performance, and developer experience
